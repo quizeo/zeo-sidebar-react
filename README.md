@@ -2,7 +2,7 @@
 
 A simple and responsive sidebar with a toggle modal built using React. Smooth transitions and clean UI for easy integration into any project.
 
-<strong style="font-weight:bold; display:block; width:100%;"></strong>
+<strong style="font-weight:bold; display:block; width:100%;">https://zeo-sidebar-react.netlify.app/</strong>
 
 <div style=" display:flex; justify-content: center; margin: 0 auto">
 <img src="/public/HTML5_logo_and_wordmark.svg.png" alt="Description" width="80px" >
